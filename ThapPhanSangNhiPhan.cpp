@@ -13,7 +13,6 @@ int main() {
 
 	// Check so lan chia
 	while (n > 0) {
-		du = n % 2;
 		n /= 2;
 		dem++;
 	}
